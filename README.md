@@ -1,5 +1,3 @@
-# steam-summer-auto-2022
-Performing mini games from steam 
 (async() => {
 
 let delay = (ms) => new Promise((res) => setTimeout(res, ms));
@@ -73,3 +71,5 @@ await delay(1500);
 }
 
 })();
+
+use Google Chrome F12 - Concole (ctrl + v) profit
