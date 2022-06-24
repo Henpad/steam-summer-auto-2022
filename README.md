@@ -73,3 +73,4 @@ await delay(1500);
 })();
 
 use Google Chrome F12 - Concole (ctrl + v) profit
+https://store.steampowered.com/sale/clorthax_quest
